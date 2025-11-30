@@ -1,0 +1,20 @@
+{
+    "rooms": {
+      "room1": {
+        "power_usage": 50,
+        "current_usage": 2.5,
+        "motion_detected": false,
+        "last_motion_time": 1711564800,
+        "lights_on": true
+      },
+      "room2": {
+        "power_usage": 30,
+        "current_usage": 1.8,
+        "motion_detected": true,
+        "last_motion_time": 1711564900,
+        "lights_on": true
+      }
+    },
+    "intruder_alert": false
+  }
+  
